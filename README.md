@@ -1,7 +1,5 @@
 # notes
 
-![aaa]http://my-site.com/article1
-
 ## Reyonlar
 - [Et Balık Tavuk](https://www.optimumfiyat.com/reyon/et-tavuk-balik)
 - [Temel Gıda](https://www.optimumfiyat.com/reyon/temel-gida)
