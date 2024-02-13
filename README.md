@@ -24,4 +24,4 @@
 
 # arama motorları:
 - [aol](https://search.aol.com/aol/search?q=site:www.optimumfiyat.com)
-- 
+- [yandex](https://yandex.com.tr/search/?text=site%3Aoptimumfiyat.com&lr=11505)
