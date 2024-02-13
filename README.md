@@ -15,6 +15,7 @@
 ## Oluşturulan profiller:
 - [instagram](https://www.instagram.com/optimumfiyatcom/)
 - [youtube](https://www.youtube.com/@optimumfiyat)
+- [github](https://github.com/optimumfiyat)
 - [behance](https://www.behance.net/alpsanay)
 - [linktr](https://linktr.ee/optimumfiyat)
 
