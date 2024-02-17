@@ -16,12 +16,13 @@
 - [instagram](https://www.instagram.com/optimumfiyatcom/)
 - [youtube](https://www.youtube.com/@optimumfiyat)
 - [github](https://github.com/optimumfiyat)
-- [behance](https://www.behance.net/alpsanay)
-- [linktr](https://linktr.ee/optimumfiyat)
+- [behance.net](https://www.behance.net/alpsanay)
+- [linktr.ee](https://linktr.ee/optimumfiyat)
 
 # Bağlantı veren siteler:
-- [xranks](https://xranks.com/alternative/optimumfiyat.com)
-- [woorank](https://www.woorank.com/en/teaser-review/optimumfiyat.com)
+- [xranks.com](https://xranks.com/alternative/optimumfiyat.com)
+- [woorank.com](https://www.woorank.com/en/teaser-review/optimumfiyat.com)
+- [seositecheckup.com](https://seositecheckup.com/seo-audit/www.optimumfiyat.com)
 
 # arama motorları:
 - [aol](https://search.aol.com/aol/search?q=site:www.optimumfiyat.com)
